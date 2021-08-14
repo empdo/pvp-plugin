@@ -1,0 +1,7 @@
+name: pvp-plugin
+version: 1.0
+main: dev.essung.pvp_plugin.PvpPlugin
+commands:
+  challenge:
+    description: print args
+    usage: /<command>
